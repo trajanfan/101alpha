@@ -102,4 +102,4 @@ def model_set(param):
         
 if __name__ == "__main__":
     kappa_cv_mean, kappa_cv_std = model_set(param_space)
-    print('mean'%d)
+    print('mean%d'%kappa_cv_mean, 'std%d'%kappa_cv_std)
