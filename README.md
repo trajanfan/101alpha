@@ -1,6 +1,6 @@
 # 101alpha
 
-This is a project using some simple machine learning model to predict the stock return, higher than the median of all the stocks' return or lower.
+This is a project using some simple machine learning models to predict the stock returns, classify them among all the stocks.
 
 ## data
 
